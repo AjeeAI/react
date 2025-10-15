@@ -1,0 +1,58 @@
+body{
+
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+nav a{
+  display: flex;
+  background-color: rgb(214, 221, 226);
+  /* width: 150px;
+  height: 40px; */
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  text-decoration: none;
+}
+nav a button {
+  text-decoration: none;
+  border: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+}
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+ 
+}
+.content p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(30, 78, 119);
+}
