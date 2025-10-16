@@ -1,48 +1,27 @@
-import { FaReact, FaPython, FaGithub, FaBrain, FaJavaScript } from "react-icons/fa";
-import { SiFastapi } from "react-icons/si";
-
-function Skills() {
+function Skills(){
   return (
-    <section className="skills">
-      <h2>My Skills</h2>
-      <div className="skill-list">
-       <div className="skill">
-          <FaJavaScript className="skill-icon" />
-          <span>JavaScript</span>
-        </div>
-        <div className="skill">
-          <FaReact className="skill-icon" />
-          <span>React</span>
-        </div>
-
-        <div className="skill">
-          <FaPython className="skill-icon" />
-          <span>Python</span>
-        </div>
-
-        <div className="skill">
-          <SiFastapi className="skill-icon" />
-          <span>FastAPI</span>
-        </div>
-
-        <div className="skill">
-          <FaGithub className="skill-icon" />
-          <span>GitHub</span>
-        </div>
-
-        <div className="skill">
-          <SiFastapi className="skill-icon" />
-          <span>FastAPI</span>
-        </div>
-
-        <div className="skill">
-          <FaBrain className="skill-icon" />
-          <span>AI Development</span>
-        </div>
+    <div className="skills">
+      <div className="skill">
+        Skill 1: JavaScript
       </div>
-    </section>
+      <div className="skill">
+        Skill 2: React
+      </div>
+      <div className="skill">
+        Skill 3: Python
+      </div>
+      <div className="skill">
+        Skill 4: FastAPI
+      </div>
+      <div className="skill">
+        Skill 5: GitHub
+      </div>
+      <div className="skill">
+        Skill 6: AI Development
+      </div>
+    </div>
   );
+
 }
 
 export default Skills;
-
