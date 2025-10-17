@@ -2,7 +2,7 @@ import Hello from "./components/Hello.jsx";
 
 function App(){
   return (
-    <Hello />
+    <Hello className="hello" />
   );
 }
 
