@@ -80,11 +80,11 @@ header h2{
 
 
 .location{
-  margin-top: 50px;
-  font-size: 28px;
+  margin-top: 20px;
+  font-size: 18px;
   font-weight: normal;
   opacity: 0.8;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: center;
   width: 70%;
 }
