@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    /* justify-content: space-between; */
+    padding: 10px;
+    margin-top: 20px;
+    /* height: 40px; */
+    /* background-color: white; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* position: sticky;
+    top: 2px; */
+}
+
+.profile img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: 50%;
+    /* margin-left: 40px; */
+}
+
+.profile-text {
+    font-weight: bold;
+    /* margin-right: 40px; */
+}
+
+.app{
+  background-color: rgb(158, 92, 92);
+}
