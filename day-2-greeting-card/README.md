@@ -1,1 +1,1 @@
-![Greeting card preview](https://publicaacademy.slack.com/archives/D09M8V4FEN7/p1760952799163959)
+![Greeting card preview](https://github.com/user-attachments/assets/99e41995-da34-4067-9465-c562c50d7fac)
