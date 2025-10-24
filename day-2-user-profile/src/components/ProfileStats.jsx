@@ -5,7 +5,6 @@ import work_icon_blue from '../assets/work_icon_blue.png';
 function ProfileStats({ projects, followers, following }) {
 
     function card_click(){
-        
         alert("Card clicked!")
     }
   return (

@@ -1,0 +1,63 @@
+.name-tag {
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-group {
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+}
+input {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.display-text {
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+    
+}
+
+p {
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.popup{
+    display: none;
+    /* position: fixed;
+    top: 50px;
+    left: 400px;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 40px; */
+}

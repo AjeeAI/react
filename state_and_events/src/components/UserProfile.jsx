@@ -17,7 +17,10 @@ function UserProfile(){
     return (
         <div>
             <div>
-                {user}
+                
+                {user.name}
+                {user.age}
+                {user.city}
             </div>
             <button onClick={updateCity}>Move to Abuja</button>
         </div>
