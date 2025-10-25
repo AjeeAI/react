@@ -52,7 +52,9 @@ function StatesExplorer() {
 
 function StateDisplay({ states }) {
   if (states.length === 0) {
-    return <p>No matching state found.</p>;
+    return <div className="stateList">
+        <p>No matching state found.</p>
+    </div>;
   }
 
   return (
