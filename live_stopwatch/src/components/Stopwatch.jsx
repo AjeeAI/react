@@ -13,7 +13,6 @@ function StopWatch() {
       interval = setInterval(() => {
         setSeconds((prevSec) => {
           if (prevSec + 1 === 60) {
-            // rollover to next minute
             setMinutes(minutes + 1);
             return 0;
           }
@@ -22,11 +21,11 @@ function StopWatch() {
       }, 1000);
     }
 
-    // cleanup on pause/unmount
+ 
     return () => clearInterval(interval);
   }, [isRunning]);
 
-  // your formatting logic moved here — outside of rendering
+
   useEffect(() => {
     let displayMinutes = minutes;
     let displaySeconds = seconds;

@@ -46,7 +46,6 @@
   letter-spacing: 2px;
   margin-bottom: 30px;
   background: linear-gradient(90deg, #0078d7, #00c6ff);
-  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: fadeIn 1s ease forwards;
 }
