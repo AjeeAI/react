@@ -71,7 +71,7 @@ const ContactForm = () => {
 
   return (
     <div className="contact-container">
-      <h2>📧 Contact Us</h2>
+      <h2>Contact Us</h2>
       <form onSubmit={handleSubmit} className="contact-form">
         <div className="form-group">
           <label>Full Name:</label>

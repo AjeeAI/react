@@ -62,7 +62,7 @@ const BankAccountForm = () => {
 
   return (
     <div className="bank-container">
-      <h2>🏦 Add Bank Account</h2>
+      <h2>Add Bank Account</h2>
       <form onSubmit={handleSubmit} className="bank-form">
         <div className="form-group">
           <label>Account Name:</label>
