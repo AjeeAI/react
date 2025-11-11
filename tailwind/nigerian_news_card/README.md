@@ -1,0 +1,1 @@
+![Nigerian news card preview](https://github.com/user-attachments/assets/33ab8bfb-8245-499e-afde-f14c4b816450)

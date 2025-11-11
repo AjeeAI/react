@@ -1,0 +1,1 @@
+![Profile card with stats preview](https://github.com/user-attachments/assets/9bff1dba-39e0-479d-9d95-4b8a39c7f959)
