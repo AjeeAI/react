@@ -1,0 +1,1 @@
+![Color Palette Showcase Preview](https://github.com/user-attachments/assets/7f6442fd-205c-4eab-bc65-c1ed2c9b0ef3)

@@ -1,0 +1,1 @@
+![Pricing Table Preview](https://github.com/user-attachments/assets/7c6c58dd-b8a3-4b4b-bbc4-58a494ec01c0)
